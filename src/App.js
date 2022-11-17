@@ -8,41 +8,41 @@ import { Viewstudent } from './Viewstudent';
 import { Editstudent } from './Editstudent';
 import { NewFunction } from './NewFunction';
 const studentdetails=[{
-  sname:"arthi",
-  degree:"BCA",
+  sname:"Bala",
+  degree:"BE",
   year:"1",
   section:"A",
-  batchyear:"2020-2023"
+  batchyear:"2016-2020"
 },{
-  sname:"anandhi",
-  degree:"BCA",
+  sname:"Subash",
+  degree:"BE",
   year:"1",
   section:"B",
-  batchyear:"2020-2023"
+  batchyear:"2016-2020"
 },
 {
-  sname:"vanitha",
-  degree:"BCA",
+  sname:"Balaji",
+  degree:"BE",
   year:"2",
   section:"A",
-  batchyear:"2021-2024"
+  batchyear:"2016-2020"
 },
 {
-  sname:"vani",
-  degree:"BCA",
+  sname:"Arun",
+  degree:"BE",
   year:"2",
   section:"A",
-  batchyear:"2021-2024"
+  batchyear:"2019-2023"
 },
 {
-  sname:"renu",
-  degree:"BCA",
+  sname:"Siva",
+  degree:"BSC",
   year:"3",
   section:"A",
-  batchyear:"2020-2023"
+  batchyear:"2016-2018"
 },
 {
-  sname:"iniya",
+  sname:"Anirudh",
   degree:"BCA",
   year:"3",
   section:"B",
